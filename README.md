@@ -1,10 +1,12 @@
-## i'm ryan :D 
-# i'm an undergrad computer science student at CSUF 
+# i'm ryan :D 
+## i'm an undergrad computer science student at CSUF 
 
 - i’m interested in ... machine learning, data science, and artificial intelligence 
 - currently learning ... 
-- contact me ... ravancena.dev@gmail.com
-- insta: ryanavancena
+- contact me ...
+  
+- ravancena.dev@gmail.com
+- ig: ryanavancena
 - discord: bergerboyyy
 
 <!---
