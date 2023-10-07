@@ -1,6 +1,5 @@
 # ryan avancena
 
-
 - i’m interested in ... machine learning, data science, and artificial intelligence 
 - Python (Numpy, Pandas, Tensorflow) / C++ / R
 
