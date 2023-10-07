@@ -8,9 +8,9 @@
 
 <p>
   contact me  <br>
-  ravancena.dev@gmail.com <br>
-  ig: ryanavancena <br>
-  discord: bergerboyyy <br>
+  - ravancena.dev@gmail.com <br>
+  - ig: ryanavancena <br>
+  - discord: bergerboyyy <br>
 </p>
 
 <!---
