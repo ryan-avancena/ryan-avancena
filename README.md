@@ -6,12 +6,12 @@
 
 <br>
 
-<p>
-  contact me  <br>
+
+## contact me 
   - ravancena.dev@gmail.com <br>
   - ig: ryanavancena <br>
   - discord: bergerboyyy <br>
-</p>
+
 
 <!---
 ryan-avancena/ryan-avancena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
