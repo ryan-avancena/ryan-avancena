@@ -2,9 +2,7 @@
 
 
 - i’m interested in ... machine learning, data science, and artificial intelligence 
-- currently learning ...
-
-<br>
+- Python (Numpy, Pandas, Tensorflow) / C++ / R
 
 
 ## contact me 
